@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "U775DD66MQ.com.propubg.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
